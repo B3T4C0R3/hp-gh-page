@@ -34,7 +34,7 @@ export default () => {
       },
       hp: {
         header_home: 'home',
-        header_nieuwbouw: 'Nieuwbouw/Aanbouw',
+        header_nieuwbouw: 'Nieuwbouw / Aanbouw',
         header_verbouw: 'Verbouw',
         header_tuinaanleg: 'Tuinaanleg',
         header_about: 'Over',
@@ -43,7 +43,7 @@ export default () => {
         services_title: 'Services',
         services_desc:
           "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
-        services_item1: 'Nieuwbouw/Aanbouw',
+        services_item1: 'Nieuwbouw / Aanbouw',
         services_itemdesc1:
           'It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.',
         services_item2: 'Verbouw',
@@ -52,7 +52,7 @@ export default () => {
         services_item3: 'Tuinaanleg',
         services_itemdesc3:
           'It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.',
-        nieuwbouw_title: 'Nieuwbouw/Aanbouw',
+        nieuwbouw_title: 'Nieuwbouw / Aanbouw',
         nieuwbouw_subtitle:
           'Contrary to popular belief, Lorem Ipsum is not simply random text.',
         more_info: 'Meer Informatie',
