@@ -4,12 +4,11 @@ export default () => {
       common: {
         title: 'A simple example',
         subtitle: "It's a blank-page. Start to build your'e page from here.",
-        error_with_status: 'An error occurred on server',
-        '404': 'This page could not be found.',
-        '404_subtitle':
-          'You can either stay and chill here, or go back to the beginning.',
-        back: 'back to home',
-        error_without_status: 'An error occurred on the server',
+        error_with_status: 'Er is iets fout gegaan!',
+        '404': 'Pagina niet gevonden',
+        '404_subtitle': 'De opgegeven pagina is niet gevonden.',
+        back: 'Terug naar home',
+        error_without_status: 'Er is iets fout gegaan!',
         contact_title: 'Free Project Quote',
         contact_title2: 'Say Hello to Us',
         contact_subtitle:
