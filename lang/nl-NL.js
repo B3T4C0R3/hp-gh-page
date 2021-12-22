@@ -29,7 +29,8 @@ export default () => {
         pt: '󠁥󠁮󠁧󠁿Português',
         id: '󠁥󠁮󠁧󠁿Bahasa Indonesia',
         ar: '󠁥󠁮󠁧󠁿العربيّة',
-        notif_msg:
+        cookies_accept: 'Accepteren',
+        cookies:
           'Wij maken gebruik van cookies om uw ervaring te optimaliseren.'
       },
       hp: {
@@ -40,42 +41,38 @@ export default () => {
         header_about: 'Over',
         header_contact: 'contact',
         banner_btn: 'Meer Informatie',
-        services_title: 'Services',
+        services_title: 'Diensten',
         services_desc:
-          "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+          'Een aannemer nodig voor het verbouwen van uw huis? Of wilt u uw huis uitbouwen? Nieuwbouw een droom? Of een tuin laten aanleggen? Hotting Projecten is een aannemer met kennis van zaken en jarenlange ervaring. Wij gaan graag aan de slag met uw wensen.',
         services_item1: 'Nieuwbouw / Aanbouw',
         services_itemdesc1:
-          'It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.',
+          'Uw wens is onze uitdaging als het gaat om nieuwbouw van uw woning of kantoor. Bij nieuwbouw, van bijvoorbeeld een (vrijstaande) woning, garage, praktijkruimte of schuur, krijgt u te maken met veel bouweisen en regelgeving. Daarnaast is er een enorme keuze in materialen en technieken. Hotting Projecten loodst u graag door deze stortvloed aan informatie heen. Met onze kennis adviseren wij u graag.',
         services_item2: 'Verbouw',
         services_itemdesc2:
-          'It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.',
+          'Inmiddels hebben wij jarenlange ervaring in het verbouwen van huizen en bedrijfspanden. De verbouwing van uw huis of bedrijfspand start bij ons met het inventariseren van uw wensen. Daarnaast denken wij als aannemer graag mee en geven wij advies over alle technische mogelijkheden en de prijzen van verbouwen. Uiteraard houden wij rekening met uw budget.',
         services_item3: 'Tuinaanleg',
         services_itemdesc3:
-          'It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.',
+          'Het is de plek waar u zomers tot in de kleine uurtjes geniet van het leven, waar uw kinderen zich volop kunnen uitleven. Maar hoe vindt u de tuin die bij u, uw woning en uw gezin past? Tuinaanleg is vakwerk – van passend ontwerp en stijlvolle inrichting tot professionele aanleg en onderhoud. Hoe uw ideale tuin er ook uitziet, met onze groene vingers, gespecialiseerde partners en prachtige tuinproducten wordt elke tuin een plaatje. Geniet van buiten, het hele jaar door.',
         nieuwbouw_title: 'Nieuwbouw / Aanbouw',
-        nieuwbouw_subtitle:
-          'Contrary to popular belief, Lorem Ipsum is not simply random text.',
+        nieuwbouw_subtitle: 'Gedegen advies over nieuwbouw',
         more_info: 'Meer Informatie',
         nieuwbouw_desc1:
-          'It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.',
+          'Als aannemer zijn wij op de hoogte van de laatste mogelijkheden en regelgeving rondom klimaatneutrale nieuwbouw. Wij bouwen de woning graag steen voor steen voor u op. Dit doen wij samen met onze eigen specialisten en vakkundige onderaannemers. Van ontwerp tot sloop en van heien tot interieurbouw, wij gaan graag voor u aan de slag. Nieuwbouw is altijd maatwerk en daarom maken wij graag nader kennis met u om alle wensen en mogelijkheden door te spreken. Bekijk alvast enkele projecten voor een voorbeeld. ',
         verbouw_title: 'Verbouw',
-        verbouw_subtitle:
-          'Contrary to popular belief, Lorem Ipsum is not simply random text.',
+        verbouw_subtitle: 'Verbouwen start bij uw wensen',
         verbouw_desc1:
-          'It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.',
+          'Ook de kleinere verbouwingen pakken wij aan. Zoals het verbouwen van een badkamer, keuken of zolder. Maar ook het plaatsen van een nieuwe voordeur, het stuken van een kamer of vervangen van kozijnen. Hierbij geven wij u ook advies over de te gebruiken materialen. Daarnaast zijn wij op de hoogte van de laatste mogelijkheden en trends. Hotting Projecten maakt gebruik van vakkundige onderaannemers om zo uw hele verbouwing uit te kunnen voeren. Wij regelen graag voor u de specialist die nodig is voor het verbouwen. Zoals een tegelzetter, loodgieter of verwarmingsinstallateur. Kortom, wij nemen u graag alle zorgen rondom uw verbouwing uit handen. Bent u ook benieuwd naar wat wij als aannemer voor u kunnen betekenen? Neem dan vrijblijvend contact op voor een gesprek of offerte.',
         about_title: 'Tuinaanleg',
         about_desc:
-          'It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.',
-        team_title: 'Over',
-        team_desc:
-          'Contrary to popular belief, Lorem Ipsum is not simply random text.',
+          'Hoe haalt u meer uit uw tuin? Welke tuintegels passen bij uw woonstijl? Kiest u voor kleurrijk en modern of juist landelijk romantisch? Stuk voor stuk vragen die wij als kenners graag van een passend antwoord voorzien in een uniek en persoonlijk tuinontwerp. Met onze jarenlange ervaring, mag u Hotting Projecten gerust de specialist in complete tuinaanleg noemen. Want als het op tuinaanleg aankomt zijn wij u eerste schets tot de realisatie van uw nieuwe tuin van dienst. Wij houden de regie tijdens het gehele tuintraject, sturen de hoveniers aan en verzorgen de facturatie. En u? U kunt jarenlang genieten van uw buiten. Zorgeloos, zoals het hoort.',
+        team_title: 'Over ons',
+        team_desc: 'Door samenwerken sterker.',
         about_text:
-          "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.",
-        subscribe_title: 'Stay in touch',
+          'Hotting Projecten doet meer dan alleen bouwen. Helder advies is minstens zo belangrijk. Vooraf bij het ontwerp, maar ook tijdens vergunningtrajecten en later de daadwerkelijke bouw of verbouwing. Wij gaan daarbij uit van uw wensen maar nemen in ons advies ook onze jarenlange kennis van bouwkunde, materialen en regelgeving mee. Samen vertalen wij uw wensen in een duidelijk, persoonlijk plan.',
+        subscribe_title: 'Contact opnemen',
         subscribe_subtitle:
-          'Subscribe to my newsletter and stay updated on the latest developments and special offers!',
-        subscribe_input: 'Enter your email address',
-        subscribe_subscribe: 'Subscribe'
+          'U kunt contact opnemen door een email te sturen naar hottingprojecten@hotmail.com of te bellen/appen naar +31 6 12639496. Wij zullen zo snel mogelijk reageren.',
+        footer_link: 'Contact'
       }
     })
   })
