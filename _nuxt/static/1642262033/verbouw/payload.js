@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/verbouw", {data:[{}],fetch:[],mutations:[]});
