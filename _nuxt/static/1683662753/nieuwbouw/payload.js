@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/nieuwbouw", {data:[{}],fetch:{},mutations:[]});
