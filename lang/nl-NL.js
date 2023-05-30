@@ -32,25 +32,25 @@ export default () => {
     },
     hp: {
       header_home: 'home',
-      header_nieuwbouw: 'Nieuwbouw / Aanbouw',
+      header_nieuwbouw: 'Nieuwbouw',
       header_verbouw: 'Verbouw',
-      header_tuinaanleg: 'Tuinaanleg',
+      header_Aanbouw: 'Aanbouw',
       header_about: 'Over',
       header_contact: 'contact',
       banner_btn: 'Meer Informatie',
       services_title: 'Diensten',
       services_desc:
-        'Een aannemer nodig voor het verbouwen van uw huis? Of wilt u uw huis uitbouwen? Nieuwbouw een droom? Of een tuin laten aanleggen? Hotting Projecten is een aannemer met kennis van zaken en jarenlange ervaring. Wij gaan graag aan de slag met uw wensen.',
-      services_item1: 'Nieuwbouw / Aanbouw',
+        'Een aannemer nodig voor het verbouwen van uw huis? Of wilt u uw huis uitbouwen? Nieuwbouw een droom? Hotting Projecten is een aannemer met kennis van zaken en jarenlange ervaring. Wij gaan graag aan de slag met uw wensen.',
+      services_item1: 'Nieuwbouw',
       services_itemdesc1:
         'Uw wens is onze uitdaging als het gaat om nieuwbouw van uw woning of kantoor. Bij nieuwbouw, van bijvoorbeeld een (vrijstaande) woning, garage, praktijkruimte of schuur, krijgt u te maken met veel bouweisen en regelgeving. Daarnaast is er een enorme keuze in materialen en technieken. Hotting Projecten loodst u graag door deze stortvloed aan informatie heen. Met onze kennis adviseren wij u graag.',
       services_item2: 'Verbouw',
       services_itemdesc2:
         'Inmiddels hebben wij jarenlange ervaring in het verbouwen van huizen en bedrijfspanden. De verbouwing van uw huis of bedrijfspand start bij ons met het inventariseren van uw wensen. Daarnaast denken wij als aannemer graag mee en geven wij advies over alle technische mogelijkheden en de prijzen van verbouwen. Uiteraard houden wij rekening met uw budget.',
-      services_item3: 'Tuinaanleg',
+      services_item3: 'Aanbouw',
       services_itemdesc3:
-        'Het is de plek waar u zomers tot in de kleine uurtjes geniet van het leven, waar uw kinderen zich volop kunnen uitleven. Maar hoe vindt u de tuin die bij u, uw woning en uw gezin past? Tuinaanleg is vakwerk – van passend ontwerp en stijlvolle inrichting tot professionele aanleg en onderhoud. Hoe uw ideale tuin er ook uitziet, met onze groene vingers, gespecialiseerde partners en prachtige tuinproducten wordt elke tuin een plaatje. Geniet van buiten, het hele jaar door.',
-      nieuwbouw_title: 'Nieuwbouw / Aanbouw',
+        'Onze projecten worden uitgevoerd met aandacht voor detail en vakmanschap. We zorgen voor een nauwgezette planning en een efficiënte uitvoering, zodat uw aanbouwproject soepel verloopt en binnen de afgesproken tijd en budget wordt opgeleverd. Daarnaast streven we naar open communicatie en transparantie, zodat u te allen tijde op de hoogte bent van de voortgang van uw project.',
+      nieuwbouw_title: 'Nieuwbouw',
       nieuwbouw_subtitle: 'Gedegen advies over nieuwbouw',
       more_info: 'Meer Informatie',
       nieuwbouw_desc1:
@@ -59,16 +59,20 @@ export default () => {
       verbouw_subtitle: 'Verbouwen start bij uw wensen',
       verbouw_desc1:
         'Ook de kleinere verbouwingen pakken wij aan. Zoals het verbouwen van een badkamer, keuken of zolder. Maar ook het plaatsen van een nieuwe voordeur, het stuken van een kamer of vervangen van kozijnen. Hierbij geven wij u ook advies over de te gebruiken materialen. Daarnaast zijn wij op de hoogte van de laatste mogelijkheden en trends. Hotting Projecten maakt gebruik van vakkundige onderaannemers om zo uw hele verbouwing uit te kunnen voeren. Wij regelen graag voor u de specialist die nodig is voor het verbouwen. Zoals een tegelzetter, loodgieter of verwarmingsinstallateur. Kortom, wij nemen u graag alle zorgen rondom uw verbouwing uit handen. Bent u ook benieuwd naar wat wij als aannemer voor u kunnen betekenen? Neem dan vrijblijvend contact op voor een gesprek of offerte.',
-      about_title: 'Tuinaanleg',
+      aanbouw_title: 'Aanbouw',
+      aanbouw_subtitle: 'Aanbouw op maat',
+      aanbouw_desc1:
+        'Wij zijn gespecialiseerd in het realiseren van hoogwaardige aanbouwprojecten die de functionaliteit en het comfort van uw woning vergroten. Met onze expertise en toewijding streven we ernaar om uw dromen werkelijkheid te maken en uw huis te transformeren in een plek die perfect past bij uw levensstijl. Een aanbouw is een uitstekende manier om uw leefruimte te vergroten zonder te hoeven verhuizen. Of u nu behoefte heeft aan extra ruimte voor een groeiend gezin, een thuiskantoor, een speelkamer, een fitnessruimte of een gezellige woonkeuken, wij kunnen de perfecte aanbouw voor u realiseren.',
+      about_title: 'Aanbouw',
       about_desc:
-        'Hoe haalt u meer uit uw tuin? Welke tuintegels passen bij uw woonstijl? Kiest u voor kleurrijk en modern of juist landelijk romantisch? Stuk voor stuk vragen die wij als kenners graag van een passend antwoord voorzien in een uniek en persoonlijk tuinontwerp. Met onze jarenlange ervaring, mag u Hotting Projecten gerust de specialist in complete tuinaanleg noemen. Want als het op tuinaanleg aankomt zijn wij u eerste schets tot de realisatie van uw nieuwe tuin van dienst. Wij houden de regie tijdens het gehele tuintraject, sturen de hoveniers aan en verzorgen de facturatie. En u? U kunt jarenlang genieten van uw buiten. Zorgeloos, zoals het hoort.',
+        'Wij zijn gespecialiseerd in het realiseren van hoogwaardige aanbouwprojecten die de functionaliteit en het comfort van uw woning vergroten. Met onze expertise en toewijding streven we ernaar om uw dromen werkelijkheid te maken en uw huis te transformeren in een plek die perfect past bij uw levensstijl. Een aanbouw is een uitstekende manier om uw leefruimte te vergroten zonder te hoeven verhuizen. Of u nu behoefte heeft aan extra ruimte voor een groeiend gezin, een thuiskantoor, een speelkamer, een fitnessruimte of een gezellige woonkeuken, wij kunnen de perfecte aanbouw voor u realiseren.',
       team_title: 'Over ons',
       team_desc: 'Door samenwerken sterker.',
       about_text:
         'Hotting Projecten doet meer dan alleen bouwen. Helder advies is minstens zo belangrijk. Vooraf bij het ontwerp, maar ook tijdens vergunningtrajecten en later de daadwerkelijke bouw of verbouwing. Wij gaan daarbij uit van uw wensen maar nemen in ons advies ook onze jarenlange kennis van bouwkunde, materialen en regelgeving mee. Samen vertalen wij uw wensen in een duidelijk, persoonlijk plan.',
       subscribe_title: 'Contact opnemen',
       subscribe_subtitle:
-        'U kunt contact opnemen door een email te sturen naar hottingprojecten@hotmail.com of te bellen/appen naar +31 6 12639496. Wij zullen zo snel mogelijk reageren.',
+        'U kunt contact opnemen door een email te sturen naar info@hottingprojecten.nl of te bellen/appen naar +31 6 12639496. Wij zullen zo snel mogelijk reageren.',
       footer_link: 'Contact'
     }
   }

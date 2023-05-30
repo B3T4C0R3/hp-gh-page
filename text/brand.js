@@ -1,7 +1,7 @@
 const brand = {
   hp: {
     name: 'Hotting Projecten',
-    desc: 'Hotting Projecten - Nieuwbouw / Aanbouw',
+    desc: 'Hotting Projecten - Nieuwbouw',
     prefix: 'hp',
     footerText: 'Hotting Projecten 2021',
     logoText: 'Hotting Projecten',
